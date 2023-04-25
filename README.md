@@ -5,7 +5,7 @@ Language and tools used; Java, Firebase, Android Studio, Google API's (Maps, Aut
 There ara some screenshots(I didn't have enough time to improve the interface :) )
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/96765595/234265646-52d452bf-bb0a-486a-aa15-feec89e11f11.jpeg)" width="200" height="400" />
 
 ![DemantiaAppMap](https://user-images.githubusercontent.com/96765595/234265646-52d452bf-bb0a-486a-aa15-feec89e11f11.jpeg =100x100)
 ![DemantiaAppRegister](https://user-images.githubusercontent.com/96765595/234265650-6388a189-3b44-4577-9fa5-2477d2b27dab.jpeg)
