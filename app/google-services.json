@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "479090136748",
+    "project_id": "patientapp-bf845",
+    "storage_bucket": "patientapp-bf845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479090136748:android:b15d57c5e33b981d6bb109",
+        "android_client_info": {
+          "package_name": "com.example.dementiaapp00"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479090136748-4uflpp8cgnad98917ug76s13c7u6tcth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjbxkoGRH8a9zm0qCwUrUajzhioq5_SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479090136748-4uflpp8cgnad98917ug76s13c7u6tcth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479090136748:android:6e924ad9de09e73b6bb109",
+        "android_client_info": {
+          "package_name": "com.example.patientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479090136748-hiqe1e7ru94sk3esfebios4i60sp2sfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patientapp",
+            "certificate_hash": "a57f5f61d6c87c0059b5a19435785edfd45419af"
+          }
+        },
+        {
+          "client_id": "479090136748-4uflpp8cgnad98917ug76s13c7u6tcth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjbxkoGRH8a9zm0qCwUrUajzhioq5_SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479090136748-4uflpp8cgnad98917ug76s13c7u6tcth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
